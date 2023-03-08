@@ -1,0 +1,11 @@
+button{
+    background-color: beige;
+    color: brown;
+}
+.pq{
+    font-size: larger;
+    font-weight: bolder;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 50px;
+}
